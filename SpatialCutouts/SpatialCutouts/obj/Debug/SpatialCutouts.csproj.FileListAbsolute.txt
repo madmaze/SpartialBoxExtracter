@@ -1,0 +1,5 @@
+c:\users\group1\documents\visual studio 2010\Projects\SpatialCutouts\SpatialCutouts\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\group1\Documents\Visual Studio 2010\Projects\SpatialCutouts\SpatialCutouts\bin\Debug\SpatialCutouts.dll
+C:\Users\group1\Documents\Visual Studio 2010\Projects\SpatialCutouts\SpatialCutouts\bin\Debug\SpatialCutouts.pdb
+C:\Users\group1\Documents\Visual Studio 2010\Projects\SpatialCutouts\SpatialCutouts\obj\Debug\SpatialCutouts.dll
+C:\Users\group1\Documents\Visual Studio 2010\Projects\SpatialCutouts\SpatialCutouts\obj\Debug\SpatialCutouts.pdb
